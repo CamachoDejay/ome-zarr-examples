@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 # ome-zarr-examples
 Keeping track of ome-zarr generation from different microscopes and formats. At the moment I include minimal examples for:
 
